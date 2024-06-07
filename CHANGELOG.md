@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.1] - 2024-06-07
+
+### Fixed
+
+- Upgrade action.yml to use Node20 (replacing Node16
+- Update version number to 1.1.1 in _package.json_
+- Testing: commit the change, see if it triggers an update in
+[PRQL repo](https://github.com/PRQL/prql)
+
 ## [1.1.0] - 2022-11-29
 
 ### Fixed

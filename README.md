@@ -123,10 +123,15 @@ This Action is distributed under the terms of the MIT license, see [LICENSE](htt
 
 ## Contribute and support
 
-Any contributions are welcomed!
+This is a fork of the original repo at [https://github.com/actions-rs/cargo](https://github.com/actions-rs/cargo)
 
-If you want to report a bug or have a feature request,
-check the [Contributing guide](https://github.com/actions-rs/.github/blob/master/CONTRIBUTING.md).
+It is maintained from time to time to keep the Node.js version up to date.
+Pointers to well-supported alternatives are welcome.
 
-You can also support author by funding the ongoing project work,
-see [Sponsoring](https://actions-rs.github.io/#sponsoring).
+~~Any contributions are welcomed!~~
+
+~~If you want to report a bug or have a feature request,
+check the [Contributing guide](https://github.com/actions-rs/.github/blob/master/CONTRIBUTING.md).~~
+
+~~You can also support author by funding the ongoing project work,
+see [Sponsoring](https://actions-rs.github.io/#sponsoring).~~
